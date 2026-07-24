@@ -1,5 +1,7 @@
 # NomadKing
 
+Ein Open-Source-Brettspiel zum Selbstausdrucken. / An open-source board game that you print out yourself  (PIY).
+
 ## Deutsch
 
 Nomadenkönig ist ein taktisches Open-Source-Brettspiel für 2 Personen mit einer Spieldauer von etwa 15 Minuten. 
@@ -14,7 +16,7 @@ freue ich mich über Sponsoring auf GitHub: [supporting my work](https://github.
 
 Als Mathematiker habe ich ein klares mathematisches System als Grundlage genommen und daraus ein taktisches Brettspiel entwickelt.
 Das Spiel ist inspiriert von Conways „Game of Life“ und der Automaten-Theorie: https://de.wikipedia.org/wiki/Conways_Spiel_des_Lebens.
-In dem diese Regeln nicht automatisch, sondern bewusst durch die Entscheidungen der Spieler zur Anwendung kommen.
+Die Spannung entsteht, indem diese Regeln nicht automatisch, sondern bewusst durch die Entscheidungen der Spieler zur Anwendung kommen.
 
 ## English
 
