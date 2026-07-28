@@ -11,6 +11,9 @@ Das Spielmaterial kann aus den im Repository enthaltenen PDF-Dateien ausgedruckt
 Die benötigten Spielsteine und Marker können entweder einer allgemeinen Spielesammlung entnommen oder separat im Handel bestellt werden; 
 zum Aufkleben des Spielbretts auf Pappe eignen sich zum Beispiel die Aufkleber und Etiketten von spielematerial.de.
 
+- Blanko Material für Nomad King: [Nomad King - G0203](https://spielematerial.de/products/nomad-king-1)
+- Blanko Schachtel A4: [Spielekarton - K0004c](https://spielematerial.de/collections/spielbretter-kartons-beutel/products/spielekarton-normal-blanko)
+
 Wenn dir das Projekt gefällt und du weitere Open-Source-Brettspiel- und Spielmaterial-Experimente unterstützen möchtest, 
 freue ich mich über Sponsoring auf GitHub: [supporting my work](https://github.com/sponsors/Rentenatus). So können neues Spielmaterial, Prototypen und weitere freie Projekte finanziert werden.
 
@@ -26,6 +29,9 @@ The goal is to guide your prince safely across the board by building and using a
 The game material can be printed from the PDF files included in the repository. 
 The required pieces and markers can either be taken from a generic board game collection or ordered separately from game component shops; 
 for mounting the board on cardboard, the stickers and labels from spielematerial.de are a practical option.
+
+- Blank components for Nomad King: [Nomad King - G0203](https://spielematerial.de/products/nomad-king-1)
+- Blank A4 box: [Game box - K0004c](https://spielematerial.de/collections/spielbretter-kartons-beutel/products/spielekarton-normal-blanko)
 
 If you like the project and want to support further open-source board game work, GitHub Sponsoring is very welcome: [supporting my work](https://github.com/sponsors/Rentenatus). 
 It helps fund additional game components, prototypes, and future open-source projects.
